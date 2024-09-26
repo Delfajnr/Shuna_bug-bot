@@ -1,5 +1,5 @@
 {
-    "name": "Shunabug-bot",
+    "name": "Vanitas Gold K⚜️",
     "version": "1.0.0",
     "description": "WhatsApp War Bot Using Nodejs",
     "main": "index.js",
@@ -13,7 +13,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "Limule3650",
+    "author": "Vanitas Gold K⚜️",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.7.7",
